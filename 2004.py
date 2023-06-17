@@ -54,8 +54,8 @@ def notice():
 
 	runtxt("\n\033[0;91m YOU ARE NOT PREMIUM USER ")
 	runtxt("\033[0;93m SEND THIS KEY TO ADMIN >> %s%s"%(G,basesplit))
-	runtxt("\033[0;92m ADMIN FACEBOOK >> HASA N")
-	subprocess.check_output(["am", "start", "https://www.facebook.com/copy.link.erorr404"])
+	runtxt("\033[0;92m ADMIN FACEBOOK >> Faisal")
+	subprocess.check_output(["am", "start", "https://www.facebook.com/username.ir.4"])
 
 
         
@@ -91,7 +91,7 @@ class Main:
 		except requests.exceptions.ConnectionError:
 			print("\n%s [!] NO INTERNET CONNECTION..\n"%(R))
 			exit()
-		os.system("am start https://wa.me/+923173280894?text=")
+		os.system("clear")
 		
 		print ("""\033[1;91m  FAISAL
 \033[1;92m $$$$$$$_ __$$$___ $$$$_ _$$$$$__ __$$$___ $$______ 
