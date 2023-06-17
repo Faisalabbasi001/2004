@@ -54,7 +54,7 @@ def notice():
 
 	runtxt("\n\033[0;91m YOU ARE NOT PREMIUM USER ")
 	runtxt("\033[0;93m SEND THIS KEY TO ADMIN >> %s%s"%(G,basesplit))
-	runtxt("\033[0;92m ADMIN FACEBOOK >> Faisal")
+	runtxt("\033[0;92m ADMIN FACEBOOK >> Muhammad Faisal Shahzad")
 	subprocess.check_output(["am", "start", "https://www.facebook.com/username.ir.4"])
 
 
